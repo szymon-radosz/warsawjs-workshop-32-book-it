@@ -8,9 +8,6 @@
       "config": { "distDir": "build" }
     }
   ],
-  "alias": [
-    "https://warsawjs-workshop-32-book-it-git-master.radoszszymon.now.sh/"
-  ],
   "build": {
     "env": {}
   },
