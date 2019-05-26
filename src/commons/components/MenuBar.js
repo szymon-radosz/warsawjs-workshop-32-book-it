@@ -114,7 +114,7 @@ const HomepageHeading = () => (
         marginTop: '0.5em',
       }}
     >
-      Zarezerwuj DZIŚ i ciesz się JUTREM.
+      Zarezerwuj JUTRO i ciesz się JUTREM.
       <Header.Subheader>
         Wyszukiwarka wolnych pokojów tylko na dzień do przodu w najlepszych
         cenach.
